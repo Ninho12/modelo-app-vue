@@ -1,4 +1,10 @@
-# modelo-app-vue
+# Projeto Modelo de App do Vue
+
+Esse Modelo vai ser o modelo padrão dos meus aplicativos
+do Framework Vue.js. Vou construir aplicativos web, 
+aplicativos desktop e aplicativos mobile.
+
+
 
 ## Project setup
 ```
